@@ -76,7 +76,8 @@ background: #C6CA12;
 ## HOME PAGE:
 ![image](https://github.com/VARSHINI22009118/event-registration/assets/119401150/24f12396-9c8a-4741-b93f-b0dac36ad3e9)
 ## LOGIN PAGE:
-![image](https://github.com/VARSHINI22009118/event-registration/assets/119401150/6da3bacd-0113-41c6-a590-ecdbaf9d7a4f)
+![image](https://github.com/VARSHINI22009118/event-registration/assets/119401150/91f94c30-3941-4cb9-b13a-dbc82bde8de3)
+
 ## SEC PAGE:
 ![image](https://github.com/VARSHINI22009118/event-registration/assets/119401150/86dc6afa-1598-446a-af23-dd848322b4f2)
 
